@@ -1,4 +1,4 @@
-module github.com/hellosumitg/realTimeDb
+module github.com/hellosumitg/realtimedb
 
 go 1.19
 
